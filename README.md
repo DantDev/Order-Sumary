@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub)
 - Live Site URL: [Live Site](https://marvelous-phoenix-33b0cf.netlify.app/)
 
 ## My process
