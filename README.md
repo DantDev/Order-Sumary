@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/order-summary-made-with-vite-reactjs-css-flexbox-and-css-variables-eCBV7MsSVo)
 - Live Site URL: [Live Site](https://marvelous-phoenix-33b0cf.netlify.app/)
 
 ## My process
